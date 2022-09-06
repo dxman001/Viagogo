@@ -1,6 +1,6 @@
 ﻿namespace Viagogo.Models
 {
-    internal class Customer
+    public class Customer
     {
         public string Name { get; set; }
         public string City { get; set; }
