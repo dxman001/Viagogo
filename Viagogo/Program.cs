@@ -19,7 +19,7 @@ var customers = new List<Customer>
     new Customer { Name = "Jhon Smith", City = "Boston" }
 };
 
-// Solution 1
+// Solution 1 
 var resultJoin = events.Join(customers, e => e.City, c => c.City, (e, c) => 
         new  
         {
