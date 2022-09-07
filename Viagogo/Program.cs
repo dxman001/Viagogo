@@ -33,7 +33,7 @@ new Emailcampaign(customers, events)
 Console.WriteLine("End Solution 1");
 Console.WriteLine("-----------");
 
-Console.WriteLine("Send Email to a customer for an event at his/her location/city and nearby events Total of 5 events per customer");
+Console.WriteLine("Send Email to a customer for an event at his/her location/city and nearby events Total of 5 events per customer ");
 /// Solution for Question # 2
 /// Send Email to a customer for an event at his/her location/city plus nearest Total of 5 events per customer
 new Emailcampaign(customers, events)
